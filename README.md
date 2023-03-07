@@ -11,7 +11,6 @@
 
 ## **Requirements**
 
----
 
 - **Programming languages**
     - Currently the only languages we support are React, Typescript, and Solidity.
@@ -20,9 +19,8 @@
 
 ## **Tasks**
 
----
 
-**Closed ended**: *One Solution* **Open ended**:*Creative prompts, No right or wrong answers*
+**Closed ended**: *One Solution* **Open ended**: *Creative prompts, No right or wrong answers*
 
 ### **Moderated**
 
@@ -36,21 +34,20 @@
 
 ## **Time Frame**
 
----
+
 
 Max 1 Hour on individual problems
 
----
+
 
 **Compensation**
 
----
 
 .25 ETH
 
 ## **Quickstart**
 
----
+
 
 This guide will use PA task #1, but participants can choose one from the tasks by clicking [here.](https://www.notion.so/3cd8f7e66ffc43d6a65d7eec2b9feabc) 
 
@@ -64,7 +61,7 @@ This guide will use PA task #1, but participants can choose one from the tasks b
 
 ## **Submissions**
 
----
+
 
 - Participants are expected to provide feedback in addition to reporting bugs.
 - Feedback can include anything that causes friction when completing the goal, such as confusing documentation or time-wasting errors.
@@ -75,7 +72,7 @@ This guide will use PA task #1, but participants can choose one from the tasks b
 
 ## **Feedback**
 
----
+
 
 People can file feedback for anything this "friction" to completing the task
 
@@ -117,18 +114,18 @@ This research is about honest individual feedback we give maintainers. Sure, peo
 
 ## **Code of Conduct**
 
----
+
 
 ## **Sponsors**
 
----
+
 
 Public Assembly
 BuilderDAO? 
 
 ## **Community**
 
----
+
 
 **[https://forum.public---assembly.com/g/Research-WG](https://forum.public---assembly.com/g/Research-WG)**
 
