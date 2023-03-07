@@ -2,54 +2,55 @@
 
 ## **How It Works**
 
-- Participants will be asked to complete curated tasks using the “DAO Utils” package. Every tasks asks participants to build a small app or add a single feature using our codebase. Each challenge takes no more than 1 hour and participants complete them on their own machine.
-- These tasks are scenarios created to invoke problem solving around auction + proposal components, protocol hooks, as well as onchain theming.
-- Loom makes it simple to add context to bugs and pull requests without ruining flow.
-- The tasks will be located in a [repository](https://www.notion.so/PA-DX-UX-Research-PAP10-Experimental-Bug-Bounty-798d30a2c7e94843a711946fb03ffea7), individually designed to be completed in under an hour, and the open submission period for further feedback will be 2 weeks.
-- Mostly everything happens on GitHub but communications are between the [forum working group](https://forum.public---assembly.com/g/Research-WG) and email.
-- The preferred method of submission will be through pull request or issues on the official DAO utils repository, however feedback can also be sent within the forum.
+* Participants will complete curated tasks from this repository (also view below) designed to invoke problem-solving skills for auctions, proposals, and onchain theming with the DAO Utils package.
+* Each task is designed to take under an hour to complete and participants work on their own machines.
+* Communication between the project team and participants will occur on the forum working group and email.
+* Participants can submit their solutions via pull requests or issues on the official DAO Utils repository or the forum, with a loom or recording to provide additional context.
+* The submission period is 2-3 weeks.
 
 ## **Requirements**
 
-
-- **Programming languages**
-    - Currently the only languages we support are React, Typescript, and Solidity.
-- GitHub
-- Using Loom
+* Programming languages
+    * Currently the only languages we support are React, Typescript, (and Solidity?)
+* GitHub
+* Using Loom
 
 ## **Tasks**
 
+https://github.com/public-assembly/dx-research-layer
 
-**Closed ended**: *One Solution* **Open ended**: *Creative prompts, No right or wrong answers*
+CE =  Closed ended One Solution
+OE =  Open ended Creative prompts, No right or wrong answers
 
-### **Moderated**
+### Moderated
+Pair programming (Interviews?)
 
-**Pair programming (Interviews?)** 
+### Unmoderated 
+(Under construction, scenarios offered as a draft)
 
-### **Unmoderated**
+* Token Explorer and Auctioning:
+    * Use the resources available on Flexible Docs to learn how to add a Token Explorer to your site, change the color and size of the Token Explorer.
+    * Make a component that let's users view owned tokens.
+    * Avatar and Profile Building
+        * Create an avatar and build a profile using DAO utils' atomic components, such as Token Title and Token Thumbnail
+    * Open-ended hack
+* Proposals and Voting:
+    * Develop a component that displays a user's reputation based on past votes, as well as a user's voting history, including the number of votes they have cast and the proposals they have supported or opposed.
+    * Notification Component
+        * Create a component that displays notifications to users based on proposals, showing updates about new proposals, voting results, etc
+    * Social Component
+        * Implement a social media component that allows users to comment on single proposals off-chain
+    * Sharing single prop on social media?
+* Onchain Theming:
+    * Create a light and dark mode theme toggle component and use on-chain theming to colorize proposal page components based on whether the proposal has been defeated or undefeated
+    * Open ended hack
+## **Timeframe**
 
-- Token Explorer and auctioning
-- Proposals and Voting
-- Onchain Theming
-
-## **Time Frame**
-
-
-
-Max 1 Hour on individual problems
-
-
-
-**Compensation**
-
-
-.25 ETH
+Max 1 Hour on individual problems.
 
 ## **Quickstart**
 
-
-
-This guide will use PA task #1, but participants can choose one from the tasks by clicking [here.](https://www.notion.so/3cd8f7e66ffc43d6a65d7eec2b9feabc) 
+This guide will use PA task #1, but participants can choose one from the tasks by clicking [here.](https://www.notion.so/3cd8f7e66ffc43d6a65d7eec2b9feabc)
 
 **Fork the Repository**
 
@@ -61,8 +62,6 @@ This guide will use PA task #1, but participants can choose one from the tasks b
 
 ## **Submissions**
 
-
-
 - Participants are expected to provide feedback in addition to reporting bugs.
 - Feedback can include anything that causes friction when completing the goal, such as confusing documentation or time-wasting errors.
 - Participants must attach screen recording clips to issues/PRs.
@@ -71,8 +70,6 @@ This guide will use PA task #1, but participants can choose one from the tasks b
 - Post Survey which will ask them to include their wallet address and link to their PR with any further questions or feedback they may have on the experience.
 
 ## **Feedback**
-
-
 
 People can file feedback for anything this "friction" to completing the task
 
@@ -96,37 +93,27 @@ Note that all feedback should include a loom as well as a short description of t
 
 /example
 
-> “At first, I tried installing through the plugin, but it kept throwing errors, despite installing it how the documentation said to. Then I switched to a maven project which, admittedly, I am not familiar with. Even then following documentation and examples online, it was not allowing me to download and execute the example getting started code.”
-> 
-
-> “Using my existing account/number/service plan didn't work through Java SDK, but does work through the button click online interface. When I released that account/number/service plan and created a fresh one, sending an SMS through the Java SDK worked.”
-> 
-
-> “Setting up the virtual number is confusing. Not sure if my phone number will suffix or do I really need a virtual number. Also, its not exactly clear how to create the virtual number on the site.”
-> 
-
-> “Message is always "This is a test message from your account", regardless of what message I put in when using the Java SDK. Is this a limitation of the trial account/free account? Or is it a bug? If the former, I didn't see it documented clearly anywhere.”
-> 
+> “At first, I tried installing through terminal, but it kept throwing errors, despite installing it how the documentation said to. Then I switched to a nextjs project which, admittedly, I am not familiar with. Even then following documentation and examples online, it was not allowing me to download and execute the example getting started code.”
+> “Using my (example: existing API key) my code didn’t deploy, but does work through my local machine When do this however it does work.”
+> “Setting up providers are confusing. Also, its not exactly clear how to create a theme on the site.”
+> “Message is always "This is a test message from your account", regardless of what message I put in when using the Provider. Is this a limitation of the package? Or is it a bug? If the former, I didn't see it documented clearly anywhere.”
+>
 
 **How does this work if solutions are public?**
 
 This research is about honest individual feedback we give maintainers. Sure, people could copy feedback and solutions, but that's why we use loom to validate submissions.
 
+## **Compensation**
+
+0.25 ETH
 ## **Code of Conduct**
-
-
 
 ## **Sponsors**
 
-
-
 Public Assembly
-BuilderDAO? 
 
 ## **Community**
 
-
-
 **[https://forum.public---assembly.com/g/Research-WG](https://forum.public---assembly.com/g/Research-WG)**
 
-- Modified from Haxor DX Challenges 
+> Modified from Haxor DX Challenges
