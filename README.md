@@ -66,7 +66,6 @@ This guide will use PA task #1, but participants can choose one from the tasks b
 - Feedback can include anything that causes friction when completing the goal, such as confusing documentation or time-wasting errors.
 - Participants must attach screen recording clips to issues/PRs.
     - Recordings help moderators understand the context of the participant’s feedback and validate submissions.
-- The survey at the end of the session will ask for ETH addresses and everything else.
 - Post Survey which will ask them to include their wallet address and link to their PR with any further questions or feedback they may have on the experience.
 
 ## **Feedback**
