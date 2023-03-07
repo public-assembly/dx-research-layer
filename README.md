@@ -22,15 +22,15 @@
 
 ---
 
-**Closed ended**
-*One Solution*
+**Closed ended**: *One Solution* **Open ended**:*Creative prompts, No right or wrong answers*
 
-**Open ended** 
-*Creative prompts, No right or wrong answers*
+### **Moderated**
 
-### Unmoderated
+**Pair programming (Interviews?)** 
 
-- **Token Explorer and auctioning**
+### **Unmoderated**
+
+- Token Explorer and auctioning
 - Proposals and Voting
 - Onchain Theming
 
@@ -40,13 +40,13 @@
 
 Max 1 Hour on individual problems
 
+---
+
 **Compensation**
 
+---
+
 .25 ETH
-
-### **Moderated**
-
-**Pair programming (Interviews?)** 
 
 ## **Quickstart**
 
@@ -131,3 +131,5 @@ BuilderDAO?
 ---
 
 **[https://forum.public---assembly.com/g/Research-WG](https://forum.public---assembly.com/g/Research-WG)**
+
+- Modified from Haxor DX Challenges 
