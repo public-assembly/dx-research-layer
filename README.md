@@ -94,8 +94,11 @@ Note that all feedback should include a loom as well as a short description of t
 /example
 
 > “At first, I tried installing through terminal, but it kept throwing errors, despite installing it how the documentation said to. Then I switched to a nextjs project which, admittedly, I am not familiar with. Even then following documentation and examples online, it was not allowing me to download and execute the example getting started code.”
+
 > “Using my (example: existing API key) my code didn’t deploy, but does work through my local machine When do this however it does work.”
+
 > “Setting up providers are confusing. Also, its not exactly clear how to create a theme on the site.”
+
 > “Message is always "This is a test message from your account", regardless of what message I put in when using the Provider. Is this a limitation of the package? Or is it a bug? If the former, I didn't see it documented clearly anywhere.”
 >
 
